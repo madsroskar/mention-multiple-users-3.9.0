@@ -1,4 +1,4 @@
-# Repro to test tagging multiple users with stream-chat-react-native version 3.8.3
+# Repro to test tagging multiple users with stream-chat-react-native version 3.9.0
 
 This *does* reproduce the issue reported in GetStream/stream-chat-react-native#934
 
