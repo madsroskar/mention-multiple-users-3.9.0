@@ -4,8 +4,8 @@ This *does* reproduce the issue reported in GetStream/stream-chat-react-native#9
 
 ## Versions:
 
-* stream-chat-react-native-core@3.8.3
-* stream-chat-react-native@3.8.3
+* stream-chat-react-native-core@3.9.0
+* stream-chat-react-native@3.9.0
 * stream-chat@~3.13.1
 
 ## To run this app:
